@@ -1,0 +1,19 @@
+.firstHead{
+    border-top-left-radius: 5px;
+}
+.lastHead{
+    border-top-right-radius: 5px;
+}
+
+.mytHead th{
+    font-size: 14px;
+}
+.mytBody td{
+    font-size: 12px;
+    font-weight: normal;
+}
+
+div:has(> .mytable) {
+    height: 300px;
+    overflow-y: scroll;
+}

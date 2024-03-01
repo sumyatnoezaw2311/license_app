@@ -1,0 +1,26 @@
+.brandLogo{
+    width: 100px;
+    height: 70px;
+    background-image: url('../../assets/imgs/logo.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navSlider{
+    height: 3px;
+    display: block;
+    margin: 0 auto;
+    transition: all .3s;
+}
+
+.avatar{
+    width: 50px;
+    height: 50px;
+    background-image: url("../../assets/imgs/userImg.jpg");
+    background-size: 70%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid #949292;
+    border-radius: 50%;
+}

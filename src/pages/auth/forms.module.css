@@ -1,0 +1,38 @@
+.mycard{
+    box-shadow: -3px 3px 30px 8px rgba(98, 97, 97, 0.36);
+    -webkit-box-shadow: -3px 3px 30px 8px rgba(98, 97, 97, 0.36);
+    -moz-box-shadow: -3px 3px 30px 8px rgba(98, 97, 97, 0.36);
+}
+
+.userCircle{
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.userIcon{
+    font-size: 40px;
+    color: #fff;
+}
+
+.customFormPadding input[type="email"],
+.customFormPadding input[type="password"],
+.customFormPadding label {
+  padding-left: 70px !important;
+}
+.customFormPadding label {
+    z-index: 1 !important;
+}
+
+.iconBox{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    z-index: 2 !important;
+}

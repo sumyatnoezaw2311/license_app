@@ -1,0 +1,8 @@
+.noticard{
+    height: 350px !important;
+    overflow: scroll;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}

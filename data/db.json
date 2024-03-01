@@ -1,0 +1,278 @@
+{
+  "users": [
+    {
+      "userName": "Real Code Solution",
+      "email": "rcs.mdy@gmail.com",
+      "password": "123456",
+      "isAdmin": "1",
+      "id": 1
+    }
+  ],
+  "phones": [
+    {
+      "phoneNumber": "09754054866",
+      "id": 1
+    }
+  ],
+  "valid-licenses": [
+    {
+      "company_name": "SDF/FF/TA",
+      "license_no": "MWDBIL12223015669",
+      "license_start_date": "01/10/2022",
+      "license_expired_date": "01/01/2023",
+      "license_invalid_date": "01/04/2023",
+      "goods": [
+        {
+          "id": 1688706272288,
+          "name": "SHOWER SANDAL/FLIPFLOP (BRAND:LOTUS,ROYAL LOTUS,KING LOTUS,M LOTUS,CROWN LOTUS,SAPAE,JASMINE LOTUS,ROYAL LOTUS,DOUBELBLACK HORSE,PANDA,CHERRY,KINGHORSE,SUMOBROWN,PANDA,ROYALLOTUS,BUMEI,MO,M6,CHICO,..ASSORTED BRAND)",
+          "hs_code": "6415987413",
+          "maccs_code": "2",
+          "price": "3.2",
+          "quantity": "5000",
+          "unit": "PR"
+        },
+        {
+          "id": 1688706376112,
+          "name": "RUBBER FLIPFLOPS (BRAND:HORSE STAR,ELEPHANT STAR,BOW STAR,MAIZE,JASMINE LOTUS,CSS)",
+          "hs_code": "648811385",
+          "maccs_code": "5",
+          "price": "4.07",
+          "quantity": "1900",
+          "unit": "PR"
+        },
+        {
+          "id": 1688706403243,
+          "name": "RUBBER SLIPPER ACCESSORIES/OUTER SOLE",
+          "hs_code": "6564985275",
+          "maccs_code": "9",
+          "price": "5.5",
+          "quantity": "1500",
+          "unit": "KG"
+        },
+        {
+          "id": 1688706442092,
+          "name": "TOE POST SANDAL(BRAND:QUEEN,SUGAR BUNNIE,SWEET,LOLLA MIEMIE,TRIPPER,ADDA,GOVY SOFT,MALDINI,LOUIS,DOLLAR,TRIPPER,SCORP,OMEGA,JAJACO,NILN,SUN SAUNG,MARCOPONY,..ASSORTED BRAND:)",
+          "hs_code": "65489311587",
+          "maccs_code": "6",
+          "price": "18",
+          "quantity": "9000",
+          "unit": "PR"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "company_name": "SDF/FF/TA",
+      "license_no": "MWDBIL12223015705",
+      "license_start_date": "02/12/2022",
+      "license_expired_date": "01/03/2023",
+      "license_invalid_date": "01/06/2023",
+      "goods": [
+        {
+          "id": 1688706482407,
+          "name": "SHOWER SANDAL/FLIPFLOP(BRAND:LOTUS,ROYAL LOTUS,KING LOTUS,MLOTUS,CROWN LOTUS,SAPAE,JASMINELOTUS,ROYAL LOTUS, DOUBELBLACKHORSE,PANDA,CHERRY,KINGHORSE,SUMOBROWN,PANDA,ROYALLOTUS,BUMEI,MO,M6,CHICO,..ASSORTED BRAND)",
+          "hs_code": "56264654",
+          "maccs_code": "3",
+          "price": "3.2",
+          "quantity": "1800",
+          "unit": "PR"
+        },
+        {
+          "id": 1688706591243,
+          "name": "RUBBER FLIPFLOPS (BRAND:HORSE STAR,ELEPHANT STAR,BOW STAR,MAIZE,JASMINE LOTUS,CSS,..ASSORTED BRAND)",
+          "hs_code": "656994989",
+          "maccs_code": "4",
+          "price": "4.07",
+          "quantity": "2300",
+          "unit": "PR"
+        },
+        {
+          "id": 1688706620507,
+          "name": "WATERPROOF FOOTWEAR (SLIPPER,SANDAL&CLOGS)(BRAND:MOOCHUU,BDOUBLE,PEKA,ADDA,KITO,AB WALKCSS, MARCOPONY,SUNSANG,SENSINI,ZHENGDA,MALDINI,ADDIDAS,FASHION,..ASSORTED BRAND)",
+          "hs_code": "64979848",
+          "maccs_code": "7",
+          "price": "4.12",
+          "quantity": "2100",
+          "unit": "PR"
+        },
+        {
+          "id": 1688706722926,
+          "name": "TOE POST SANDAL(BRAND:QUEEN,SUGAR BUNNIE,SWEET,LOLLA MIEMIE,TRIPPER,ADDA,GOVY SOFT,MALDINI,LOUIS,DOLLAR,TRIPPER,SCORP,OMEGA,JAJACO,NILN,SUN SAUNG,MARCOPONY,..ASSORTED BRAND:)",
+          "hs_code": "86959884",
+          "maccs_code": "2",
+          "price": "18",
+          "quantity": "4500",
+          "unit": "KG"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "company_name": "SDF/FF/TA",
+      "license_no": "MWDBIL12223016039",
+      "license_start_date": "12/12/2022",
+      "license_expired_date": "11/03/2023",
+      "license_invalid_date": "11/06/2023",
+      "goods": [
+        {
+          "id": 1688706760300,
+          "name": "PLASTIC BASKET/SHOPPING BASKET (SIZE:28\" & UNDER)",
+          "hs_code": "85498798",
+          "maccs_code": "7",
+          "price": "21.8",
+          "quantity": "6000",
+          "unit": "KG"
+        },
+        {
+          "id": 1688706825054,
+          "name": "NYLON CABLE TIE (ASSORTED SIZE)",
+          "hs_code": "654964982",
+          "maccs_code": "5",
+          "price": "18",
+          "quantity": "9000",
+          "unit": "KG"
+        },
+        {
+          "id": 1688706856061,
+          "name": "PLASTIC CORNER FOR FLOOR TILE (ASSORTED SIZE)",
+          "hs_code": "989412074",
+          "maccs_code": "3",
+          "price": "18",
+          "quantity": "1700",
+          "unit": "KG"
+        },
+        {
+          "id": 1688706882947,
+          "name": "PLASTIC SEMI-COLLAPSIBLE JERRY CAN",
+          "hs_code": "89846514",
+          "maccs_code": "1",
+          "price": "21.6",
+          "quantity": "8000",
+          "unit": "KG"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "transactions": [
+    {
+      "good_id": 1688706272288,
+      "transaction_id": "45594946",
+      "id_date": "2023-07-07T07:01:20.195Z",
+      "quantity": 200,
+      "id": 1
+    },
+    {
+      "good_id": 1688706376112,
+      "transaction_id": "54949949",
+      "id_date": "2023-07-07T07:03:32.158Z",
+      "quantity": 100,
+      "id": 2
+    },
+    {
+      "good_id": 1688706403243,
+      "transaction_id": "64998543",
+      "id_date": "2023-07-07T07:07:15.748Z",
+      "quantity": 300,
+      "id": 3
+    },
+    {
+      "good_id": 1688706442092,
+      "transaction_id": "98746521",
+      "id_date": "2023-07-07T07:24:05.167Z",
+      "quantity": 300,
+      "id": 4
+    },
+    {
+      "good_id": 1688706760300,
+      "transaction_id": "85796241",
+      "id_date": "2023-07-07T07:28:51.705Z",
+      "quantity": 300,
+      "id": 5
+    },
+    {
+      "good_id": 1688706825054,
+      "transaction_id": "85796241",
+      "id_date": "2023-07-07T07:28:51.705Z",
+      "quantity": 300,
+      "id": 6
+    },
+    {
+      "good_id": 1688706825054,
+      "transaction_id": "58898478",
+      "id_date": "2023-07-07T07:30:13.014Z",
+      "quantity": 250,
+      "id": 7
+    },
+    {
+      "good_id": 1688706856061,
+      "transaction_id": "68797564",
+      "id_date": "2023-07-07T07:32:07.730Z",
+      "quantity": 600,
+      "id": 8
+    },
+    {
+      "good_id": 1688706882947,
+      "transaction_id": "4164651",
+      "id_date": "2023-07-07T07:46:16.274Z",
+      "quantity": 400,
+      "id": 9
+    },
+    {
+      "good_id": 1688706482407,
+      "transaction_id": "32464984",
+      "id_date": "2023-07-07T07:53:35.179Z",
+      "quantity": 400,
+      "id": 10
+    },
+    {
+      "good_id": 1688706760300,
+      "transaction_id": "459984966",
+      "id_date": "2023-07-07T08:27:07.534Z",
+      "quantity": 200,
+      "id": 11
+    },
+    {
+      "good_id": 1688706376112,
+      "transaction_id": "98471202148",
+      "id_date": "2023-07-07T08:33:05.612Z",
+      "quantity": 200,
+      "id": 13
+    },
+    {
+      "good_id": 1688706442092,
+      "transaction_id": "54979865562",
+      "id_date": "2023-07-07T08:45:02.796Z",
+      "quantity": 100,
+      "id": 15
+    },
+    {
+      "good_id": 1688706403243,
+      "transaction_id": "549848941",
+      "id_date": "2023-07-07T08:47:09.353Z",
+      "quantity": 100,
+      "id": 16
+    },
+    {
+      "good_id": 1688706442092,
+      "transaction_id": "696995232",
+      "id_date": "2023-07-07T08:50:31.842Z",
+      "quantity": 120,
+      "id": 17
+    },
+    {
+      "good_id": 1688706376112,
+      "transaction_id": "684925245",
+      "id_date": "2023-07-07T09:08:46.566Z",
+      "quantity": 100,
+      "id": 18
+    },
+    {
+      "good_id": 1688706403243,
+      "transaction_id": "6564146546",
+      "id_date": "2023-07-07T09:28:12.261Z",
+      "quantity": 410,
+      "id": 19
+    }
+  ]
+}
